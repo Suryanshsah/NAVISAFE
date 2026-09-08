@@ -17,7 +17,7 @@ import Chatbot from "@/src/components/chatbot/Chatbot";
 export default function NaviSafePage() {
   const [currentStep, setCurrentStep] = useState<
     "welcome" | "userInfo" | "tripDetails" | "confirmation" | "dashboard" | "authorityLogin" | "authority"
-  >("welcome")
+  >("dashboard")
   const [userInfo, setUserInfo] = useState<any>(null)
   const [tripDetails, setTripDetails] = useState<any>(null)
   const [isAuthorityAuthenticated, setIsAuthorityAuthenticated] = useState(false)
