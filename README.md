@@ -1,5 +1,5 @@
 # 🛰️ Navisafe  
-### _Smart Tourist Safety Monitoring and Incidnet Response System by Team Valeron_
+### _Smart Tourist Safety Monitoring and Incidnet Response System
 
 [![Status](https://img.shields.io/badge/Status-Active-success)]()
 [![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen)]()
