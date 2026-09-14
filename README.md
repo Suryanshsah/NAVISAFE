@@ -1,5 +1,5 @@
 # 🛰️ Navisafe  
-### _Smart Tourist Safety Monitoring and Incidnet Response System
+### _Smart Tourist Safety Monitoring and Incident Response System
 
 [![Status](https://img.shields.io/badge/Status-Active-success)]()
 [![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen)]()
